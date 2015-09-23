@@ -21,3 +21,6 @@ Want snooze functionality like Google Inbox, but hate web based email clients? G
 
 ## Usage
 To snooze any email, move it to the desired snooze folder. It will magically appear back in your inbox, unread when you're ready for it.
+
+
+*** Message Unsnoozing is not timely. Google apps scripts only support a time range to trigger functions, so you may see a ~15 minute delay in unsnoozing messages.
