@@ -39,7 +39,7 @@ var NEXT_WEEK_LABEL = "Next Week";
 
 // Snooze until this weekend (8 am)
 // Day to snooze until
-var WEEKEND = ScriptApp.WeekDay.FRIDAY;
+var WEEKEND = ScriptApp.WeekDay.SATURDAY;
 // Label for tonight
 var WEEKEND_LABEL = "This Weekend";
 
