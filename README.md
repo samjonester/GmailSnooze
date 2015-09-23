@@ -12,10 +12,11 @@ Want snooze functionality like Google Inbox, but hate web based email clients? G
 1. Open Google Drive
 2. Create a new spreadsheet
 3. Navigate to: Tools -> Script Editor
-4. Paste the contents of Snooze.gs into the editor
-5. Save and name the script Snooze.gs
-6. Choose Run -> setup
-7. Repeat for any other google accounts you'd like snooze functionality added to.
+4. Update time zone for project: File -> Project properties -> Time zone
+5. Paste the contents of Snooze.gs into the editor
+6. Save and name the script Snooze.gs
+7. Choose Run -> setup
+8. Repeat for any other google accounts you'd like snooze functionality added to.
  
 
 ## Usage
